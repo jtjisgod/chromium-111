@@ -1,0 +1,7 @@
+include_rules = [
+  "+components/grit",
+  "+components/strings/grit",
+  "+components/signin",
+  "+third_party/protobuf",
+  "+ui/base",
+]
